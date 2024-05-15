@@ -1,0 +1,104 @@
+<HTML>
+	<HEAD>
+		<TITLE>Time table</TITLE>
+	</HEAD>
+	<BODY>
+	<CENTER><H2>LITTLE FLOWER DEGREE COLLEGE</H2>
+	<H4> TIME TABLE </H4>
+		<Table border="2" cell spacing="5" cellpadding="5">
+			<TR>
+                              <TH colspan="12"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp BIO TECHNOLOGY 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp </span></TH>
+			</TR>
+			<TR align="center" border="3">
+				<TD>                   </TD>
+				<TD><b>08:30-09:20</b></TD>
+				<TD><b>09:20-10:10</b></TD>
+				<TD><b>10:10-10:30</b></TD>
+				<TD><b>10:30-11:15</b></TD>
+				<TD><b>11:15-12:00</b></TD>
+				<TD><b>12:00-12:30</b></TD>
+				<TD><b>12:30-1:15</b></TD>
+				<TD><b>1:15-2:00</b></TD>
+				<TD><b>2:00-2:10</b></TD>
+				<TD><b>2:10-2:55</b></TD>
+				<TD><b>2:55-3:45</b></TD>
+			</TR>
+			<TR align="center" border="3">
+				<TD><b>Monday</b></TD>
+				<TD bgcolor="white"><b>...</b></TD>
+				<TD bgcolor="lightpink">Ⅰ BSC MECS<BR>EVS</TD>
+				<TD bgcolor="white" rowspan ="6">   <b>   B<BR><BR><BR>R<BR><BR><BR>E<BR><BR><BR>A<BR><BR><BR>K     </b>  </TD>
+				<TD bgcolor="orange">Ⅰ BSC BTMC<BR>BT2</TD>
+				<TD bgcolor="sky blue">Ⅰ BSC MSCS<BR>EVS</TD>
+				<TD bgcolor="white" rowspan ="6">  <b>    B<BR><BR><BR>R<BR><BR><BR>E<BR><BR><BR>A<BR><BR><BR>K     </b>   </TD>
+				<TD bgcolor="deeppink">Ⅱ BSC BTMC<BR>BT4</TD>
+				<TD bgcolor="deeppink">Ⅱ BSC BTMC<BR>BT4</TD>
+				<TD bgcolor="white" rowspan ="5">  <b>    B<BR><BR><BR>R<BR><BR><BR>E<BR><BR><BR>A<BR><BR><BR>K      </b>  </TD>
+				<TD bgcolor="white"><b>...</b></TD>
+				<TD bgcolor="limegreen">Ⅲ BSC BTMC<BR>BT6</TD>	
+			</TR>
+			<TR align="center" border="3">
+				<TD><b>Tuesday</b></TD>
+				<TD bgcolor="deeppink">Ⅱ BSC BTMC<BR>BT4</TD>
+				<TD bgcolor="deeppink">Ⅱ BSC BTMC<BR>BT4</TD>
+				<TD bgcolor="limegreen">Ⅲ BSC BTMC<BR>BT6</TD>
+				<TD bgcolor="limegreen">Ⅲ BSC BTMC<BR>BT6</TD>
+				<TD bgcolor="orange">Ⅰ BSC BTMC<BR>BT2</TD>
+				<TD bgcolor="orange">Ⅰ BSC BTMC<BR>BT2</TD>
+				<TD bgcolor="lightpink">Ⅰ BSC MECS<BR>EVS</TD>
+				<TD bgcolor="sky blue">Ⅰ BSC MSCS<BR>EVS</TD>
+			</TR>
+
+
+			<TR align ="center" border="3">
+				<TD><b>Wednesday</b></TD>
+				<TD bgcolor="deeppink">Ⅱ BSC BTMC<BR>BT4</TD>
+				<TD bgcolor="deeppink">Ⅱ BSC BTMC<BR>BT4</TD>
+				<TD bgcolor="limegreen">Ⅲ BSC BTMC<BR>BT6</TD>
+				<TD bgcolor="limegreen">Ⅲ BSC BTMC<BR>BT6</TD>
+				<TD bgcolor="white"><b>...</b></TD>
+				<TD bgcolor="sky blue">Ⅰ BSC MSCS<BR>EVS</TD>
+				<TD bgcolor="orange">Ⅰ BSC BTMC<BR>BT2</TD>
+				<TD bgcolor="orange">Ⅰ BSC BTMC<BR>BT2</TD>
+			</TR>
+                                             <TR align="center" border="3">
+				<TD><b>Thursday</b></TD>
+				<TD bgcolor="white"><b>...</b></TD>
+				<TD bgcolor="white"><b>...</b></TD>
+				<TD bgcolor="orange">Ⅰ BSC BTMC <BR>BT2</TD>
+				<TD bgcolor="orange">Ⅰ BSC BTMC <BR>BT2</TD>
+				<TD bgcolor="deeppink">Ⅱ BSC BTMC<BR>BT4</TD>
+				<TD bgcolor="deeppink">Ⅱ BSC BTMC<BR>BT4</TD>	
+                                             <TD bgcolor="lightpink">Ⅰ BSC MECS<BR>EVS</TD>
+				<TD bgcolor="limegreen">Ⅲ BSC BTMC<BR>BT6</TD>
+				
+			</TR>
+			<TR align="center" border="3">
+				<TD><b>Friday</b></TD>
+				<TD bgcolor="limegreen">Ⅲ BSC BTMC<BR>BT6</TD>
+				<TD bgcolor="limegreen">Ⅲ BSC BTMC<BR>BT6</TD></TD>
+				<TD bgcolor="orange">Ⅰ BSC BTMC<BR>BT2</TD>
+				<TD bgcolor="orange">Ⅰ BSC BTMC<BR>BT2</TD>
+				<TD bgcolor="white"><b>...</b></TD>
+				<TD bgcolor="deeppink">Ⅱ BSC BTMC<BR>BT4</TD>
+          				<TD bgcolor="white"><b>...</b></TD>
+				<TD bgcolor="white"><b>...</b></TD>
+			</TR>
+			<TR align="center" border="3">
+				<TD><b>Saturday</b></TD>
+				<TD bgcolor="limegreen">Ⅲ BSC BTMC<BR>BT6</TD>
+				<TD bgcolor="limegreen">Ⅲ BSC BTMC<BR>BT6</TD>
+				<TD bgcolor="white"><b>...</b></TD>
+				<TD bgcolor="orange">Ⅰ BSC BTMC<BR>BT2</TD>
+				<TD bgcolor="deeppink">Ⅱ BSC BTMC<BR>BT4</TD>
+				<TD bgcolor="white"><b>...</b></TD>
+				<TD bgcolor="white"><b>...</b></TD>
+                                          <TD bgcolor="white"><b>...</b></TD>
+				<TD bgcolor="white"><b>...</b></TD>
+			</TR>
+	</TABLE>		
+	</CENTER> 
+	</BODY>
+</HTML>
+
